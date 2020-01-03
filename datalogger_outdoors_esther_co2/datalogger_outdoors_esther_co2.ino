@@ -1,4 +1,5 @@
 ///////////////////////// For Atmega Board//////////////////////
+////////////////////////Run this on the board with the atmega 328 chip i assumed that the co2 sensor will be on A0 kindly change if necessary/////////////////////
 #include<Wire.h>
 #include<dht.h>
 #include<LiquidCrystal_I2C.h>
